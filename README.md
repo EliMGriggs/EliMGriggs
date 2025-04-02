@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello!
+## I am a student at NJIT, The New Jersey Institue of Tech
+## I currently major in Applied Physics
+## Thank's for stopping by!
+## 💕
 
 <!--
 **EliMGriggs/EliMGriggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
