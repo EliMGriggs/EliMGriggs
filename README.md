@@ -1,7 +1,7 @@
 ## Hello!
-## I am a student at NJIT, The New Jersey Institue of Tech
-## I currently major in Applied Physics
-## Thank's for stopping by!
+I am a student at NJIT, The New Jersey Institue of Tech
+I currently major in Applied Physics
+Thank's for stopping by!
 ## 💕
 
 <!--
